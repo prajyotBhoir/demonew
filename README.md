@@ -1,1 +1,3 @@
-# demonew
+# maven-project
+
+Simple Maven Project
